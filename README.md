@@ -7,7 +7,7 @@ I'm developing projects with:
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <br>
-<li>I also have knowledge on the platform <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<li>I also have knowledge on the system <img src="https://camo.githubusercontent.com/2fc774b6f44efd9ac27316c539e0e94f8e524f872dc5b1c3ef60266a598331bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974"/>
 <br>
 <br>
 <li>I'm currently learning about <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> in the <a href="https://plataforma.devclub.com.br/area/vitrine"> DevClub</a> course, with Senior Developer mentor <a href="https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAABU7ZzsBxGBxL-bH-0qrrGjmqKnUcqd4Yy8&keywords=rodolfo%20mori&origin=RICH_QUERY_TYPEAHEAD_HISTORY&position=0&searchId=072cc56a-e838-4608-ad9a-1e4c1b2f0e4e&sid=lMa">Rodolfo Mori</a>
