@@ -32,5 +32,5 @@ I'm developing projects with:
 :pushpin:<a href="https://web.whatsapp.com/"> Whatsapp <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="logo-wpp"></a> 
 <br>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriqueramos23)](https://github.com/anuraghazra/github-readme-stats)
+
 
