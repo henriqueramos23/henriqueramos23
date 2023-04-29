@@ -25,7 +25,7 @@ I'm developing projects with:
  <div>
 <h3><b>Connect with me:</b></h3>
 <br>
-:pushpin:<a href="https://www.linkedin.com/in/manoel-henrique-ramos-florentino-b00141123/">Linkedin <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"></a>  
+:pushpin:<a href="##">Linkedin <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkedin"></a>  
 <br>
 <br>
 <h4><b>Contact me:</b></h4>
