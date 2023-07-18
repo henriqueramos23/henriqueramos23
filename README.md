@@ -19,7 +19,7 @@ I'm developing projects with:
 <h2><b>How to reach me: </b></h2>
  <br>
  <br>
- :pushpin:<a href="m_henrique19@hotmail.com">E-mail <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="logo-outlook"></a>
+ :pushpin:<a href="dev.henriqueramos@yahoo.com">E-mail <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="logo-outlook"></a>
 <br>
 <br>
  <div>
